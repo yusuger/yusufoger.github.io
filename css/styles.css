@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 40;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.top {
+  font-family: Brush Script MT;
+}
+
+p {
+  font-size: 20px;
+}
+
+.ek {
+  font-family: Brush Script MT;
+  font-size: 25px;
+}
+
+.yusuf {
+  width: 150px;
+  position: absolute;
+  margin-top: 20px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mountain {
+  margin-top: 60px;
+  width: 1100px;
+}
+
+.top-cloud {
+  margin-top: 20px;
+  width: 350px;
+  margin-left: 500px;
+}
+
+.bottom-cloud {
+  width: 450px;
+  position: absolute;
+  margin-left: -25px;
+  margin-top: -70px;
+}
+
+.yusuf-intro {
+  margin-top: 30px;
+  width: 200px;
+}
+
+.hi {
+  font-size: 45px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.introduction {
+  text-align: center;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: -20px;
+  margin-bottom: 60px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.hrsik {
+border-top: 8px dotted #99C4C8;
+font-size: 14px;
+line-height: 1.50000000;
+box-sizing:
+border-box;
+margin: 0 auto;
+max-width: 100px;
+margin-bottom: 60px;
+}
+
+.ill {
+  position: relative;
+  margin-right: 600px;
+  margin-top: 100px;
+  width: 200px;
+}
+
+.sikd {
+  position: absolute;
+  margin-top: -210px;
+  margin-left: 600px;
+  margin-right: 350px;
+}
+
+.development {
+  position: relative;
+  margin-left: 700px;
+  margin-top: 100px;
+  width: 420px;
+}
+
+.codding {
+  position: absolute;
+  margin-top: -240px;
+  margin-right: 600px;
+  margin-left: 350px;
+}
+
+.hrsik2 {
+border-top: 8px dotted #99C4C8;
+font-size: 14px;
+line-height: 1.50000000;
+box-sizing:
+border-box;
+margin: 0 auto;
+max-width: 100px;
+margin-bottom: 60px;
+margin-top: 40px;
+}
+
+button: :before,
+button: :after {
+  position: absolute;
+  content: "";
+  z-index: -1;
+}
+
+button {
+  position: relative;
+  border: none;
+  transition: .4s ease-in;
+  z-index: 1;
+}
+
+.btn {
+  background-color: #82DBD8;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 10px;
+}
+
+.btn:hover {
+  box-shadow: 10px 10px 0px #B3E8E5;
+  top: -5px;
+  left: -5px;
+}
